@@ -1,7 +1,7 @@
 
 # How to run this repo
 
-This is a basic bootsrapped node repository using typescript. 
+This is a basic bootsrapped node repository using TypeScript. 
 
 Feel free to install any other dependencies that you might find necessary.
 
