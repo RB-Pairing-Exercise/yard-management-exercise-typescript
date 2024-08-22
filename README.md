@@ -9,4 +9,4 @@ To run this repo and begin your challenge:
 
 1. `npm install` to install 
 2. `npm run dev` to run in development mode
-3. `npm run test` to run jest on your code
+3. `npm run test` to run tests
