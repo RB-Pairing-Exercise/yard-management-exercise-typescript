@@ -1,5 +1,5 @@
 
-# How to run this repo
+# How to run this repository
 
 This is a basic bootsrapped node repository using TypeScript. 
 
